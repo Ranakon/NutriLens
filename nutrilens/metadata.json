@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens - AI Food Scanner",
+  "description": "Snap a photo of your food to instantly get nutritional insights, health benefits, ingredients, and recipe links using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
